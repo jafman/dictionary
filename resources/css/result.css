@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.result {
+	background-color: #fff;
+	border:1px solid #2A9FFF;
+	width:95%;
+	height:auto;
+	padding:5px;
+	margin-bottom:15px;
+	border-radius: 5px;
+	margin-left:auto;
+	margin-right:auto;
+	box-shadow: 0 4px 10px #666;
+	-webkit-box-shadow: 0 4px 10px #666;
+	
+	color: #000;
+	font-family:'Ubuntu', sans-serif;
+	font-size: 90%;
+	font-weight:500;
+	line-height: 1.5em;
+	
+	background: linear-gradient(90deg, #e6e6e6 0, #fff 20%) no-repeat #fff;
+	
+	background: -webkit-linear-gradient(90deg, #e6e6e6 0, #fff 20%) no-repeat #fff;
+	opacity: 0.8;
+
+}
+
+.emf{
+	color: #F60;
+	font-style:italic;
+	font-family:'Ubuntu', sans-serif;
+}
+#hword, #info span {
+	font-size: 90%;
+	font-weight:400;
+	font-family: 'Oswald', sans-serif;
+	background-color:#CC6;
+	border-radius: 5px;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.bg1 {
+	margin-left:auto;
+	margin-right:auto;
+	width:169px;
+	 
+}
+
+#info {
+	font-family:'Ubuntu', sans-serif;
+	font-size: 90%;
+	width: 80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	
+}
+
+
+
+
+
